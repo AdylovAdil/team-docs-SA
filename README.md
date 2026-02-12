@@ -1,7 +1,7 @@
 \# Наш DevOps проект
 
 ## Описание проекта
-Здесь общее описание...
+This project demonstrates a basic DevOps workflow using Git, branches, and pull requests
 
 ## Команда
 Adylov Adilkhodzha.
